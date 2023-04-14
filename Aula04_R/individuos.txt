@@ -1,0 +1,6 @@
+"nome" "idade" "peso" "altura" "genero"
+"1" "BRUNO" 53 52 180 "H"
+"2" "BIA" 34 64 176 "M"
+"3" "MARIA" 26 68 161 "M"
+"4" "ALAN" 72 72 150 "H"
+"5" "LARI" 18 78 168 "M"
